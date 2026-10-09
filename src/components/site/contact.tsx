@@ -3,8 +3,7 @@
 import { useState } from 'react'
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle2 } from 'lucide-react'
 
-const CONTACT_AGENT_IMAGE =
-  'https://templates.envytheme.com/holsworthy/default/assets/img/contact-agent.jpg'
+const CONTACT_AGENT_IMAGE = '/agent/sarah-whitman.png'
 
 const MAP_EMBED_SRC =
   'https://www.openstreetmap.org/export/embed.html?bbox=-72.8640%2C43.0800%2C-72.8240%2C43.1040&layer=mapnik&marker=43.0920%2C-72.8440'

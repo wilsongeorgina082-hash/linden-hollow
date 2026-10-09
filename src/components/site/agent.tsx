@@ -1,7 +1,6 @@
 import { Phone, Mail, Star, BadgeCheck } from 'lucide-react'
 
-const AGENT_IMAGE =
-  'https://templates.envytheme.com/holsworthy/default/assets/img/agent.jpg'
+const AGENT_IMAGE = '/agent/sarah-whitman.png'
 
 const VIDEO_BG =
   'https://templates.envytheme.com/holsworthy/default/assets/img/video-bg.jpg'
